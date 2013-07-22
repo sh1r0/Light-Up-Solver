@@ -2,7 +2,7 @@ Light-Up Solver
 ===============
 ![game](https://googledrive.com/host/0By9mvBCbgqryVmc4T1dlbHQzdjQ/lightup/game.png)  
 
-Light-Up is a kind of puzzle games like Sudoku  
+Light-Up is a kind of puzzle game like Sudoku  
 
 There are 7x7, 14x14, 25x25 and 30x40 games on the following site.  
   
